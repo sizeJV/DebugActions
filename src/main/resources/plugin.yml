@@ -1,0 +1,7 @@
+name: DebugActions
+author: size
+version: 1.0.0
+main: com.sizejv.DebugActions
+commands:
+  c:
+    description: performs //undo and //redo with a delay to debug visuals
